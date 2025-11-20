@@ -104,21 +104,98 @@ Compute the greatest common divisor (GCD) of two numbers.
 Example:  
 12, 18 → 6
 
----
+
+Sure bhai! ⚡🔥
+Main in **same format** bana raha hoon jaisa tumne upar DSA problems ke liye diya tha — clean heading, description, emojis, everything.
+
+Numbering **13 se start** kar raha hoon:
 
 ---
 
-## 🛠️ **Technologies Used**
-- C++
-- Basic I/O
-- Loops (for, while)
-- Conditionals
-- Mathematical Operations
+## 1️⃣3️⃣ Operations on Pointers
+
+**Description:**
+Write a C++ program to demonstrate basic pointer operations such as:
+
+* Declaring pointers
+* Storing address in a pointer
+* Dereferencing a pointer
+* Pointer arithmetic
 
 ---
 
-## 📁 **How to Run the Programs**
+## 1️⃣4️⃣ Swap Two Numbers Using Functions
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/repo-name.git
+**Description:**
+Write a C++ program to swap two numbers by passing them to a function.
+You can use:
+
+* Call by value (won’t actually swap)
+* Call by reference (actual swap)
+
+---
+
+## 1️⃣5️⃣ Menu-Driven Calculator (Switch Case + Functions)
+
+**Description:**
+Create a calculator using **switch-case** for selecting the operation and separate **functions** for:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+
+Program must keep running until user exits.
+
+---
+
+## 1️⃣6️⃣ Factorial of a Number (Using Function)
+
+**Description:**
+Write a function that takes an integer and returns its factorial.
+Example:
+5 → 120
+
+---
+
+## 1️⃣7️⃣ Compute Simple Interest
+
+**Description:**
+Write a function to calculate Simple Interest using the formula:
+SI = (P × R × T) / 100
+
+---
+
+## 1️⃣8️⃣ Student Grade Calculation
+
+**Description:**
+Write a function that accepts marks and returns the grade based on:
+
+* 90+ → A
+* 80–89 → B
+* 70–79 → C
+* 60–69 → D
+* Below 60 → Fail
+
+Use this function to determine the grade of one student.
+
+---
+
+## 1️⃣9️⃣ Print All Numbers Between Two Inputs
+
+**Description:**
+Write a function that takes two integers and prints all numbers between them (inclusive), regardless of which one is bigger.
+
+---
+
+## 2️⃣0️⃣ Largest Digit of a Number
+
+**Description:**
+Write a function that extracts all digits of a number and returns the **largest digit**.
+Example:
+Input → 59274
+Output → 9
+
+---
+
+
