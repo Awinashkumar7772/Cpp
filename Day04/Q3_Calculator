@@ -1,0 +1,39 @@
+#include<iostream>
+using namespace std;
+void calculator(int num1,int num2){
+    int add,sub,mul,div;
+     int choice;
+    cout<<"Enter your choice"<<endl;
+    cout<<"1.ADDITION"<<endl;
+    cout<<"2.SUBTRACTION"<<endl;
+    cout<<"3.MULTIPLICATION"<<endl;
+    cout<<"4.DIVISION"<<endl;
+    cin>>choice;
+     switch (choice)
+    {
+    case 1:
+        cout<<"Sum = "<<num1+num2;
+        break;
+        case 2:
+        cout<<"Sub = " <<num1-num2;
+        break;
+        case 3:
+        cout<<"Mul = "<<num1*num2;
+        break;
+        case 4:
+        cout<<"Div = "<<num1/num2;
+        break;
+    
+    default:
+        break;
+    }
+}
+int main()
+{
+    int a,b;
+    cout<<"Enter the value of a & b";
+    cin>>a>>b;
+   
+   
+}
+
